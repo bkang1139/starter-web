@@ -21,6 +21,6 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-Unimation101
+Unimation101 All right reserved.
 
 
